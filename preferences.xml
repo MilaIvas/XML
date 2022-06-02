@@ -1,0 +1,8 @@
+<book category="WEB">
+   <title lang="en">Learning XML</title>
+   <favorite movie>iron Man</favorite movie>
+   <favourite TV show>The Vampire Diaries</favourite TV show>
+   <favorite food>sushi</favorite food>
+   <favorite time of year>summer</favorite time of year>
+   <country you would like to visit>Georgia</country you would like to visit>
+</book>
